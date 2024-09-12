@@ -14,28 +14,26 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 
 Explore resources for mastering frontend development, from beginner to advanced levels. Find tutorials, courses, and books that cover HTML, CSS, JavaScript, and more.
 
-- [**Beginner Level**](./frontend-development/beginner.md)
-- [**Intermediate Level**](./frontend-development/intermediate.md)
-- [**Advanced Level**](./frontend-development/advanced.md)
-- [**Books**](./frontend-development/books.md)
+- [**Beginner Level**](./frontendDevelopment/frontend.md/#-beginner-level)
+- [**Intermediate Level**](./frontendDevelopment/frontend.md/#-intermediate-level)
+- [**Advanced Level**](./frontendDevelopment/frontend.md/#-advanced-level)
 
 ## 🖥️ Backend Development
 
 Discover resources for backend development, including server-side languages, databases, and APIs. This section includes guides for different skill levels.
 
-- [**Beginner Level**](./backend-development/beginner.md)
-- [**Intermediate Level**](./backend-development/intermediate.md)
-- [**Advanced Level**](./backend-development/advanced.md)
-- [**Books**](./backend-development/books.md)
+- [**Beginner Level**](./backendDevelopment/Backend.md/#-beginner-level)
+- [**Intermediate Level**](./backendDevelopment//Backend.md/#-intermediate-level)
+- [**Advanced Level**](./backendDevelopment//Backend.md/#-advanced-level)
 
 ## 🧠 Personal Development
 
 Access a range of materials for personal growth, including goal setting, productivity, and emotional intelligence. Resources are available for various stages of personal development.
 
-- [**Beginner Level**](./personal-development/beginner.md)
-- [**Intermediate Level**](./personal-development/intermediate.md)
-- [**Advanced Level**](./personal-development/advanced.md)
-- [**Books**](./personal-development/books.md)
+- [**Beginner Level**](./personalDevelopment/personaldevelopment/#-beginner-level)
+- [**Intermediate Level**](./personalDevelopment/personaldevelopment/#-intermediate-level)
+- [**Advanced Level**](./personalDevelopment/personaldevelopment/#-advanced-level)
+- [**Books**](./personalDevelopment/personaldevelopment/#-books)
 
 ---
 
