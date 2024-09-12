@@ -14,17 +14,17 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 
 Explore resources for mastering frontend development, from beginner to advanced levels. Find tutorials, courses, and books that cover HTML, CSS, JavaScript, and more.
 
-- [**Beginner Level**](./frontendDevelopment/frontend.md/#-beginner-level)
-- [**Intermediate Level**](./frontendDevelopment/frontend.md/#-intermediate-level)
-- [**Advanced Level**](./frontendDevelopment/frontend.md/#-advanced-level)
+- [**Beginner Level**](./FrontendDevelopment/Frontend.md/#-beginner-level)
+- [**Intermediate Level**](./FrontendDevelopment/Frontend.md/#-intermediate-level)
+- [**Advanced Level**](./FrontendDevelopment/Frontend.md/#-advanced-level)
 
 ## 🖥️ Backend Development
 
 Discover resources for backend development, including server-side languages, databases, and APIs. This section includes guides for different skill levels.
 
-- [**Beginner Level**](./backendDevelopment/Backend.md/#-beginner-level)
-- [**Intermediate Level**](./backendDevelopment//Backend.md/#-intermediate-level)
-- [**Advanced Level**](./backendDevelopment//Backend.md/#-advanced-level)
+- [**Beginner Level**](./BackendDevelopment/Backend.md/#-beginner-level)
+- [**Intermediate Level**](./BackendDevelopment//Backend.md/#-intermediate-level)
+- [**Advanced Level**](./BackendDevelopment//Backend.md/#-advanced-level)
 
 ## 🧠 Personal Development
 
