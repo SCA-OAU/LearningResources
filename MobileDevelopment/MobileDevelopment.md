@@ -28,3 +28,44 @@ Mobile development is the process of creating applications that run on mobile de
 
 ### Building Your First App
 Now that you've set up your environment and understand the basics, it's time to start building! At the intermediate level, you'll dive deeper into different frameworks, libraries, and how to manage data in mobile apps.
+
+### Intermediate Resources:
+1. **[React Native Documentation](https://reactnative.dev/docs/getting-started)** - Official React Native documentation to guide you through building feature-rich apps.
+Write your first Flutter app
+
+
+---
+
+## 🌍 Additional Resources
+
+Here are some extra resources that might come in handy:
+
+### Github Repositories
+-  **[React Native Examples](#link)** - Official examples and tutorials for React Native.
+
+### Blogs
+
+**Android Focused**
+- **[Android Authority](#link)** - Android news, tutorials, and reviews.
+- **[simplifiedcoding](https://www.simplifiedcoding.net/)** - Learn to build apps.
+- **[Joe Birch](https://joebirch.co/)**  - Blogs on Android and Kotlin
+- **[codelabs](https://codelabs.developers.google.com/)** - Google Developers Codelabs provides a guided, tutorial, hands-on coding experience.They cover a wide range of topics such as Android Wear, Google Compute Engine, ARCore, and Google APIs on iOS.
+- **[MindOrks](https://mindorks.com/)** - Learn Android app development.
+
+**iOS Focused**
+
+
+### Open-Source Projects
+- **[Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)**
+
+
+### Communities
+- **[/r/AndroidDev - Discord](https://discord.com/invite/D2cNrqX)** - Connect with other mobile developers for support and collaboration.
+- **[/r/android_devs](https://www.reddit.com/r/android_devs/)** - A Reddit community where Android developers discuss challenges, share tips, engage in architectural discussions, and seek help on development and publishing issues.
+
+---
+
+## Contributing
+Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](../CONTRIBUTING.md) file for guidelines on how to add more resources to this repository.
+
+These resources cover everything from beginner to advanced levels, helping you grow as a mobile developer. Good luck with your projects, and happy coding! 🚀
