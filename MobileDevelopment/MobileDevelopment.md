@@ -47,7 +47,7 @@ At the advanced level, it’s all about optimization, performance, and advanced 
 
 ### Advanced Resources:
 1. **[Testing our application (React Native)](https://fullstackopen.com/en/part10/testing_and_extending_our_application)** - An in-depth guide to testing, and additional resources.
-2. **[https://www.kindacode.com/article/using-provider-for-state-management-in-flutter/](https://www.kindacode.com/article/using-provider-for-state-management-in-flutter/#google_vignette)** - Steps to using state management inFlutter apps.
+2. **[Provider for state management in Flutter](https://www.kindacode.com/article/using-provider-for-state-management-in-flutter/#google_vignette)** - Steps to using state management inFlutter apps.
 3. **[React Native Testing](https://reactnative.dev/docs/testing-overview)** - How to write and run tests for your React Native apps.
 4. **[Debugging Flutter Apps](https://docs.flutter.dev/testing/debugging)** - Advanced debugging techniques for complex Flutter applications.
 5. **[Publishing to Google Play & App Store](https://developer.android.com/studio/publish)** - How to prepare and release your mobile app for production.
