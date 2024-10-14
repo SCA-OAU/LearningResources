@@ -7,17 +7,18 @@ Welcome to the **Fullstack Development Learning Resources** repository! This rep
 
 Here’s a visual roadmap to guide you through the fullstack development journey:
 
-![Fullstack Development Roadmap](./assets/fullstack-roadmap.jpg)
+![Fullstack Development Roadmap](https://github.com/Rachel-Cellulose/LearningResources/blob/fullstack-development/FullstackDevelopment/assets/fullstack-roadmap.jpg) 
 
 
 ## 📚 Table of Contents
-1. [Getting Started with Fullstack Development](#getting-started-with-fullstack-development)
-2. [Frontend Technologies](#frontend-technologies)
-3. [Backend Technologies](#backend-technologies)
-4. [Database Management](#database-management)
-5. [Deployment & DevOps](#deployment--devops)
-6. [Advanced Topics](#advanced-topics)
-7. [Contribute](#contribute)
+1. [🚀 Getting Started with Fullstack Development](#-getting-started-with-fullstack-development)
+2. [🌐 Frontend Technologies](#-frontend-technologies)
+3. [🖥️ Backend Technologies](#-backend-technologies)
+4. [🗄️ Database Management](#-database-management)
+5. [🛠️ Deployment & DevOps](#-deployment--devops)
+6. [🎓 Advanced Topics](#-advanced-topics)
+7. [🤝 Contribute](#-contribute)
+
 
 ---
 
@@ -86,6 +87,8 @@ Here are some additional resources to help beginners get started with fullstack 
 
 The frontend of a web application is what users interact with directly. As a fullstack developer, you need to master the fundamentals of frontend technologies like HTML, CSS, and JavaScript, and frameworks like React or Vue.js.
 
+## Estimated Time: 4 - 6 weeks
+Frontend development involves mastering HTML, CSS, JavaScript, and frameworks like React or Vue.js. Given the broad scope of frontend technologies, learners should expect to spend significant time on topics like responsive design, JavaScript frameworks, and UI/UX principles.
 
 Here are some highly recommended tutorials and courses for **Frontend Technologies**:
 
@@ -165,6 +168,10 @@ Here are some highly recommended tutorials and courses for **Frontend Technologi
 
 The backend is responsible for handling requests, managing databases, and serving data to the frontend. Mastering backend technologies like Node.js, Express, or Django is essential for building scalable applications.
 
+## Estimated Time: 4 - 6 weeks
+Backend development includes server-side programming, building RESTful APIs, database interaction, and security. Topics like Node.js, Django, and handling databases will take time, depending on the learner’s familiarity with backend languages and frameworks.
+
+
 
 Here are some highly recommended tutorials and courses for **Backend Technologies**:
 ### Courses & Tutorials:
@@ -225,6 +232,10 @@ Here are some highly recommended tutorials and courses for **Backend Technologie
 ## 🗄️ Database Management
 
 Managing databases is a critical part of backend development. You’ll need to understand how to design, create, and manage databases using both SQL and NoSQL solutions.
+
+## Estimated Time: 2 - 3 weeks
+
+Database management involves learning SQL, NoSQL, and database design. This includes designing relational database schemas, writing SQL queries, and working with NoSQL databases like MongoDB.
 
 
 
@@ -305,9 +316,11 @@ Here are some highly recommended tutorials and courses for **Database Management
 
 Deployment is the process of putting your fullstack application live on the web. Understanding CI/CD pipelines, containerization, and cloud services will help you get your applications deployed quickly and efficiently.
 
+## Estimated Time: 2 - 4 weeks
+Deployment and DevOps require understanding containerization, CI/CD pipelines, and cloud services like AWS or Heroku. Learning how to automate deployment processes and manage applications post-launch will also take time.
+
 
 Here are some highly recommended tutorials and courses for **Deployment** and **DevOps**:
-
 ### Courses & Tutorials for Deployment & DevOps:
 
 - **[Docker for Beginners - by freeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)**  
@@ -356,6 +369,9 @@ Here are some highly recommended tutorials and courses for **Deployment** and **
 ## 🎓 Advanced Topics
 
 As you progress in your fullstack journey, you'll need to learn advanced topics to build large-scale applications that are scalable, secure, and maintainable.
+
+## Estimated Time: 3 - 5 weeks
+This section covers more complex concepts like microservices, GraphQL, serverless architecture, and scaling large applications. Since these are advanced topics, they might take longer to fully grasp, especially for beginners.
 
 ### Courses & Tutorials:
 - [**Microservices Architecture** - by Coursera](https://www.coursera.org/learn/microservices-architecture)  
