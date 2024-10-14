@@ -1,5 +1,6 @@
 # 📱 Mobile Development Resources
 
+
 Welcome to the **Mobile Development** section. Whether you're new or experienced, this resource guide covers all the essentials for learning mobile app development at different levels.
 
 ![Mobile development](./assets/mobile.jpg)
@@ -13,8 +14,8 @@ Mobile development is the process of creating applications that run on mobile de
 
 **Why it’s important:** Almost everyone uses mobile apps every day, from social media to banking, so learning to build mobile apps opens up endless possibilities.
 
-### Resources for Beginners:
-1. **[Intro to Mobile App Development](#link)** - A beginner’s guide to understanding the fundamentals of mobile development.
+### Resources for Beginners
+
 2. **[Setting Up Your Development Environment with React Native](https://reactnative.dev/docs/environment-setup)** - Learn how to set up your computer for mobile app development.
 3. **[React Native for Beginners](https://www.youtube.com/watch?v=0-S5a0eXPoc)** - A crash course on building mobile apps using React Native.
 4. **[Intro to Flutter](https://www.geeksforgeeks.org/flutter-tutorial/)** - Step-by-step guide on building apps with Flutter for both Android and iOS.
@@ -32,7 +33,61 @@ Now that you've set up your environment and understand the basics, it's time to 
 ### Intermediate Resources:
 1. **[React Native Documentation](https://reactnative.dev/docs/getting-started)** - Official React Native documentation to guide you through building feature-rich apps.
 Write your first Flutter app
+2. **[Flutter Intermediate Tutorial](https://youtu.be/HQ_ytw58tC4?si=5Goq2hS6yBa96jTc)** - Learn advanced layouts, animations, and state management in Flutter.
+3. **[Introduction React Native](https://fullstackopen.com/en/part10/introduction_to_react_native)** - How to integrate a REST API into your React Native app.
+4. **[React Native Networking](https://fullstackopen.com/en/part10/communicating_with_server)** - Learn how to fetch data from the web in React Native.
 
+
+---
+
+## 🔴 Advanced Level
+
+### Taking Your Skills Further
+At the advanced level, it’s all about optimization, performance, and advanced topics like testing, debugging, and publishing apps to the App Store or Google Play. This is where you’ll learn to build production-ready apps.
+
+### Advanced Resources:
+1. **[Testing our application (React Native)](https://fullstackopen.com/en/part10/testing_and_extending_our_application)** - An in-depth guide to testing, and additional resources.
+2. **[https://www.kindacode.com/article/using-provider-for-state-management-in-flutter/](https://www.kindacode.com/article/using-provider-for-state-management-in-flutter/#google_vignette)** - Steps to using state management inFlutter apps.
+3. **[React Native Testing](https://reactnative.dev/docs/testing-overview)** - How to write and run tests for your React Native apps.
+4. **[Debugging Flutter Apps](https://docs.flutter.dev/testing/debugging)** - Advanced debugging techniques for complex Flutter applications.
+5. **[Publishing to Google Play & App Store](https://developer.android.com/studio/publish)** - How to prepare and release your mobile app for production.
+
+
+---
+
+## ⚒️ Popular Tools & Frameworks
+
+Different tools can simplify and speed up your mobile development process. Below are the most popular frameworks:
+
+### **React Native** (Cross-Platform)
+React Native lets you build mobile apps using JavaScript and React, making it a favorite for many developers.
+
+- **[React Native Official Docs](https://reactnative.dev/docs/getting-started)** - Comprehensive documentation on React Native.
+
+![React Native](./assets/react.svg)
+
+### **Flutter** (Cross-Platform)
+Flutter, powered by Google, is another excellent tool for building mobile apps that work on both iOS and Android.
+
+- **[Flutter Official Guide](https://docs.flutter.dev/get-started/learn-flutter)** - The complete guide to Flutter from its creators.
+
+![Flutter](./assets/flutter.svg)
+
+---
+
+## 💡 Additional Topics
+
+### State Management (Handling Data)
+Handling data efficiently is critical in mobile apps. Here’s how to do it in popular frameworks:
+
+- **[React Native State Management with Redux](#link)** - Best practices for managing data with Redux.
+- **[State Management in Flutter](#link)** - Learn how to use Provider for advanced state management.
+
+### Debugging & Testing
+Testing and debugging your apps help ensure stability before launch.
+
+- **[Testing React Native Apps](#link)** - Learn how to write tests for your React Native app.
+- **[Debugging Flutter Apps](#link)** - Debugging tools and tips for finding issues in Flutter.
 
 ---
 
@@ -41,12 +96,11 @@ Write your first Flutter app
 Here are some extra resources that might come in handy:
 
 ### Github Repositories
--  **[React Native Examples](#link)** - Official examples and tutorials for React Native.
+-  **[Awesome Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources?tab=readme-ov-file)** - Official examples and tutorials for React Native.
 
 ### Blogs
 
 **Android Focused**
-- **[Android Authority](#link)** - Android news, tutorials, and reviews.
 - **[simplifiedcoding](https://www.simplifiedcoding.net/)** - Learn to build apps.
 - **[Joe Birch](https://joebirch.co/)**  - Blogs on Android and Kotlin
 - **[codelabs](https://codelabs.developers.google.com/)** - Google Developers Codelabs provides a guided, tutorial, hands-on coding experience.They cover a wide range of topics such as Android Wear, Google Compute Engine, ARCore, and Google APIs on iOS.
@@ -67,5 +121,3 @@ Here are some extra resources that might come in handy:
 
 ## Contributing
 Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](../CONTRIBUTING.md) file for guidelines on how to add more resources to this repository.
-
-These resources cover everything from beginner to advanced levels, helping you grow as a mobile developer. Good luck with your projects, and happy coding! 🚀
