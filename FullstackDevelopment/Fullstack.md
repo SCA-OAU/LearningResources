@@ -11,13 +11,14 @@ Here’s a visual roadmap to guide you through the fullstack development journey
 
 
 ## 📚 Table of Contents
-1. [🚀 Getting Started with Fullstack Development](#-getting-started-with-fullstack-development)
-2. [🌐 Frontend Technologies](#-frontend-technologies)
-3. [🖥️ Backend Technologies](#-backend-technologies)
-4. [🗄️ Database Management](#-database-management)
-5. [🛠️ Deployment & DevOps](#-deployment--devops)
-6. [🎓 Advanced Topics](#-advanced-topics)
-7. [🤝 Contribute](#-contribute)
+1. [Getting Started with Fullstack Development](#-getting-started-with-fullstack-development)
+2. [Frontend Technologies](#-frontend-technologies)
+3. [Backend Technologies](#-backend-technologies)
+4. [Database Management](#-database-management)
+5. [Deployment DevOps](#-deployment-devops)
+6. [Advanced Topics](#-advanced-topics)
+7. [Contribute](#-contribute)
+
 
 
 ---
@@ -164,7 +165,7 @@ Here are some highly recommended tutorials and courses for **Frontend Technologi
 
 
 
-## 🖥️ Backend Technologies
+## 🌐 Backend Technologies
 
 The backend is responsible for handling requests, managing databases, and serving data to the frontend. Mastering backend technologies like Node.js, Express, or Django is essential for building scalable applications.
 
@@ -229,7 +230,7 @@ Here are some highly recommended tutorials and courses for **Backend Technologie
 
 ---
 
-## 🗄️ Database Management
+## 🌐 Database Management
 
 Managing databases is a critical part of backend development. You’ll need to understand how to design, create, and manage databases using both SQL and NoSQL solutions.
 
@@ -312,7 +313,8 @@ Here are some highly recommended tutorials and courses for **Database Management
 
 ---
 
-## 🛠️ Deployment & DevOps
+## 🌐 Deployment Devops
+
 
 Deployment is the process of putting your fullstack application live on the web. Understanding CI/CD pipelines, containerization, and cloud services will help you get your applications deployed quickly and efficiently.
 
