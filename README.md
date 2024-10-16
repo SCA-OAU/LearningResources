@@ -41,9 +41,8 @@ Access a range of materials for personal growth, including goal setting, product
 
 We welcome contributions to make this repository even more valuable! If you have resources to add or improvements to suggest, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
 
-## 📧 Contact
-
-For any questions or suggestions, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
+## 📧 Support
+Don't forget to star ⭐ this repo
 
 ---
 
