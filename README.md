@@ -4,9 +4,9 @@ Welcome to the **Learning Resources Repository**! This repository is designed to
 
 ## 📚 Contents
 
-1. [Frontend Development](#frontend-development)
-2. [Backend Development](#backend-development)
-3. [Personal Development](#personal-development)
+1. [Frontend Development](#-frontend-development)
+2. [Backend Development](#-backend-development)
+3. [Personal Development](#-personal-development)
 
 ---
 
@@ -18,7 +18,7 @@ Explore resources for mastering frontend development, from beginner to advanced 
 - [**Intermediate Level**](./FrontendDevelopment/Frontend.md/#-intermediate-level)
 - [**Advanced Level**](./FrontendDevelopment/Frontend.md/#-advanced-level)
 
-## 🖥️ Backend Development
+## 💻 Backend Development
 
 Discover resources for backend development, including server-side languages, databases, and APIs. This section includes guides for different skill levels.
 
