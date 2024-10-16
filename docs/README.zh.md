@@ -1,6 +1,6 @@
 # 学习资源库 (Learning Resources Repository)
 
-[English](README.md) | [中文](docs/README.zh.md)
+[English](../README.md) | [中文](README.zh.md)
 
 欢迎来到 **Learning Resources Repository**！此仓库旨在为您提供各个领域的精选资源，帮助您的个人和职业发展。无论您是学生、专业人士，还是仅仅对某个领域感兴趣，这里都有丰富的资料可以帮助您提升技能和知识。
 
