@@ -3,7 +3,7 @@
 
 Welcome to the **Mobile Development** section. Whether you're new or experienced, this resource guide covers all the essentials for learning mobile app development at different levels.
 
-![Mobile development](./assets/mobile.jpg)
+![Mobile development](/MobileDevelopment/assets/mobile.jpg)
 
 ---
 
@@ -64,14 +64,14 @@ React Native lets you build mobile apps using JavaScript and React, making it a 
 
 - **[React Native Official Docs](https://reactnative.dev/docs/getting-started)** - Comprehensive documentation on React Native.
 
-![React Native](./assets/react.svg)
+![React Native](/MobileDevelopment/assets/react.svg)
 
 ### **Flutter** (Cross-Platform)
 Flutter, powered by Google, is another excellent tool for building mobile apps that work on both iOS and Android.
 
 - **[Flutter Official Guide](https://docs.flutter.dev/get-started/learn-flutter)** - The complete guide to Flutter from its creators.
 
-![Flutter](./assets/flutter.svg)
+![Flutter](/MobileDevelopment/assets/flutter.svg)
 
 
 ---
