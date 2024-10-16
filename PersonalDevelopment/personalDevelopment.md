@@ -3,12 +3,12 @@
 Welcome to the **Personal Development Learning Resources** repository! This repository provides a curated list of resources to help you grow personally and professionally. From foundational skills to advanced strategies, these materials will guide you on your journey of self-improvement.
 
 ## 📑 Table of Contents
-1. [Beginner Level](#beginner-level)
-2. [Intermediate Level](#intermediate-level)
-3. [Advanced Level](#advanced-level)
-4. [Books](#books)
-5. [Tools & Resources](#tools-and-resources)
-6. [Contribute](#contribute)
+1. [Beginner Level](#-beginner-level)
+2. [Intermediate Level](#-intermediate-level)
+3. [Advanced Level](#-advanced-level)
+4. [Books](#-books)
+5. [Tools & Resources](#-tools-and-resources)
+6. [Contribute](#-contribute)
 
 ---
 
@@ -76,7 +76,7 @@ Explore these influential books on personal development to gain deeper insights 
 
 ---
 
-## ⚒️ Tools and Resources
+## 🛠 Tools and Resources
 
 Enhance your personal development journey with these essential tools and platforms.
 
