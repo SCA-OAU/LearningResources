@@ -1,5 +1,7 @@
 # Learning Resources Repository
 
+[English](README.md) | [中文](docs/README.zh.md)
+
 Welcome to the **Learning Resources Repository**! This repository is designed to offer a comprehensive collection of curated resources across various fields to support your personal and professional development. Whether you're a student, professional, or just curious, you'll find valuable materials to help you enhance your skills and knowledge.
 
 ## 📚 Contents
