@@ -6,7 +6,7 @@
 
 ## 📚 目录 (Contents)
 
-1. [前端开发 (Frontend Development)](#-frontend-development)
+1. [前端开发 (Frontend Development)](#前端开发 (Frontend Development))
 2. [后端开发 (Backend Development)](#-backend-development)
 3. [个人发展 (Personal Development)](#-personal-development)
 
