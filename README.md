@@ -28,6 +28,15 @@ Discover resources for backend development, including server-side languages, dat
 - [**Intermediate Level**](./BackendDevelopment//Backend.md/#-intermediate-level)
 - [**Advanced Level**](./BackendDevelopment//Backend.md/#-advanced-level)
 
+## 📱Mobile Development
+
+Access resources for mobile development, including  iOS and Android platforms. Find tutorials, courses, blogs and communities to help you build mobile apps.
+
+- [**Beginners Level**](./MobileDevelopment//MobileDevelopment.md/#-beginners-level)
+- [**Intermediate Level**](./MobileDevelopment//MobileDevelopment.md/#-intermediate-level)
+- [**Advanced Level**](./MobileDevelopment//MobileDevelopment.md/#-advanced-level)
+
+
 ## 🧠 Personal Development
 
 Access a range of materials for personal growth, including goal setting, productivity, and emotional intelligence. Resources are available for various stages of personal development.
@@ -43,9 +52,8 @@ Access a range of materials for personal growth, including goal setting, product
 
 We welcome contributions to make this repository even more valuable! If you have resources to add or improvements to suggest, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
 
-## 📧 Contact
-
-For any questions or suggestions, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
+## 📧 Support
+Don't forget to star ⭐ this repo
 
 ---
 
