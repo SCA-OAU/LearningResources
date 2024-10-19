@@ -1,5 +1,7 @@
 # Programming Basics Resources
 
+Welcome to the **Programming Resources repository!** Here, you'll find a curated list of resources organized from beginner to advanced levels. 
+
 ## C Programming
 - [W3Schools C Programming](https://www.w3schools.com/c/)
 - [C Programming by GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
