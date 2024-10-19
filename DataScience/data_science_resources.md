@@ -2,6 +2,15 @@
 
 Welcome to the Data Science Resources Hub! This document contains a collection of valuable resources, tutorials, and tools for aspiring data scientists.
 
+📝Table of Contents
+1.[Online Courses](#online-courses)
+2.[Books](#books)
+3.[Tutorials and blogs](#tutorials-and-blogs)
+4.[Datasets](#datasets)
+5.[Tools and libraries](#tools-and-libraries)
+6.[Communities and Forums](#communities-and-forums)
+7.[Contribute](#-contribute)
+
 ## Online Courses
 
 - **[Coursera - Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)** - A comprehensive course series offered by Johns Hopkins University.
@@ -44,4 +53,7 @@ Welcome to the Data Science Resources Hub! This document contains a collection o
 - **[Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)** - A free, hands-on introduction to machine learning.
 - **[Microsoft Learn - Data Science](https://learn.microsoft.com/en-us/learn/browse/?products=azure&term=data%20science)** - Learn about data science concepts using Azure
 
-Happy learning.
+## 🤝 Contribute
+Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to add more resources to this repository.
+
+Feel free to explore and share with your community! 🚀
