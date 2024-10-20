@@ -3,11 +3,11 @@
 Welcome to the **Frontend Development Learning Resources** repository! Here, you'll find a curated list of resources organized from beginner to advanced levels. Whether you're just starting out or looking to advance your skills, these resources will guide you through the journey of becoming a proficient frontend developer.
 
 ## 📑 Table of Contents
-1. [Beginner Level](#beginner-level)
-2. [Intermediate Level](#intermediate-level)
-3. [Advanced Level](#advanced-level)
-4. [Tools & Resources](#tools-and-resources)
-5. [Contribute](#contribute)
+1. [Beginner Level](#-beginner-level)
+2. [Intermediate Level](#-intermediate-level)
+3. [Advanced Level](#-advanced-level)
+4. [Tools and Resources](#-tools-and-resources)
+5. [Contribute](#-contribute)
 
 ---
 
@@ -62,7 +62,7 @@ For advanced learners, focus on performance optimization, state management, test
 
 ---
 
-## ⚒️ Tools and Resources
+## 🛠 Tools and Resources
 
 Expand your development toolkit with these helpful tools and resources.
 
