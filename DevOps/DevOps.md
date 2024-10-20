@@ -13,36 +13,43 @@ Welcome to the **DevOps Learning Resources** repository! This repository provide
 
 ## 🟢 Beginner Level
 
-Start with the fundamentals of DevOps, linux, git and bash scripting.
+Start with the fundamentals of DevOps, Linux, Git and Bash Scripting.
 
 ### Courses & Tutorials:
 - [**Introduction to DevOps**](https://www.datacamp.com/courses/devops-concepts) - **datacamp**: DevOps Concepts.
 - [**Linux**](https://www.freecodecamp.org/news/introduction-to-linux/) - **freecodecamp**: Introduction to Linux.
 - [**Git and Version Control**](https://www.datacamp.com/courses/introduction-to-git) - **datacamp**: Learn Git.
 - [**Bash Scripting**](https://www.datacamp.com/courses/introduction-to-bash-scripting) - **datacamp**: Introduction to Bash Scripting.
+- [**Cloud Platforms**](https://youtu.be/Vnk0p-63mHQ?si=4_L_je98VwR5WEzr) - **YouTube**: Overview of Various Cloud Platforms.
 
 
 ---
 
 ## 🟠 Intermediate Level
 
-Explore more advanced devops practices such as ansible, terraform, docker and docker-compose, kubernetes
+Explore more advanced DevOps practices such as Ansible, Terraform, Docker and Docker Compose.
 
 ### Courses & Tutorials:
-- [**Ansible**](https://spacelift.io/blog/ansible-tutorial) - **spacelift**: Ansible Tutorial for Beginners: Ultimate Playbook & Examples.
-- [**Docker**](https://docker-curriculum.com/) - **Docker**: Docker for beginers.
-- [**Docker Compose**](https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/) - **freecodecamp**: Docker Compose.
-- [**Kubernetes**](https://www.hostinger.com/tutorials/kubernetes-tutorial?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:Other-AFRICA&utm_medium=ppc&gad_source=1&gclid=Cj0KCQjwjY64BhCaARIsAIfc7YallK-1IXRpV3OYSNdqb68t0G8cRNURpNedJzJ65_-spSEaanS5DfAaAhWmEALw_wcB) - **Hostinger**: Learning the basics of effective container management.
-
+- [**Ansible**](https://www.youtube.com/watch?v=3RiVKs8GHYQ&list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - **YouTube**: Getting Started with Ansible.
+- [**Docker**](https://youtu.be/pg19Z8LL06w?si=vhUEKlorObUs-WpR) - **YouTube**: Docker Crash Course for Absolute Beginners.
+- [**Docker Compose**](https://youtu.be/SXwC9fSwct8?si=tsm2_FnN8VkjUSXy) - **YouTube**:  Ultimate Docker Compose .
+- [**Terraform**](https://youtu.be/7xngnjfIlK4?si=swuG5djNoX_R-r4h) - **YouTube**:  Complete Terraform Course.
 
 ---
 
 ## 🔴 Advanced Level
 
-Focus on monitoring and observeability, pipelines.
+Focus on Orchestration, Monitoring and Observability, CI/CD Pipelines, and DevSecOps.
 
 ### Courses & Tutorials:
-- [**Continuos Monitoring and Continuous Deployment**](https://www.redhat.com/en/topics/devops/what-is-ci-cd) - **RedHat**: What is CI/CD.
+ [**Kubernetes**](https://youtu.be/X48VuDVv0do?si=ya4BnTZU-_hVoDuk) - **YouTube**: Kubernetes Tutorial for Beginners.
+
+- [**Continuous Integration and Continuous Deployment**](https://www.redhat.com/en/topics/devops/what-is-ci-cd) - **RedHat**: What is CI/CD.
+
+- [**Monitoring and Logging**](https://youtu.be/9TJx7QTrTyo?si=n3KZ_1ZdqRUOiUtM) - **YouTube**:  Server Monitoring // Prometheus and Grafana Tutorial .
+
+- [**DevSecOps**](https://learn.kodekloud.com/courses/devsecops-kubernetes-devops-security) - **KodeKloud**: DevOps & Security.
+
 
 
 ---
