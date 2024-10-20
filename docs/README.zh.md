@@ -2,6 +2,12 @@
 
 [English](../README.md) | [中文](README.zh.md)
 
+---
+
+注意：本文件翻译于2014/10/20，可能与英文版readme有出入，请以英文版readme为准。
+
+---
+
 欢迎来到 **Learning Resources Repository**！此仓库旨在为您提供各个领域的精选资源，帮助您的个人和职业发展。无论您是学生、专业人士，还是仅仅对某个领域感兴趣，这里都有丰富的资料可以帮助您提升技能和知识。
 
 ## 📚 目录 (Contents)
@@ -42,6 +48,14 @@
 ## 🤝 贡献 (Contribute)
 
 我们欢迎任何有助于提高此资源库价值的贡献！如果您有资源可以添加或改进的建议，请参考我们的 [CONTRIBUTING.md](../CONTRIBUTING.md) 文件获取指南。
+
+### 贡献者（Contributors）
+<a href="https://github.com/SCA-OAU/LearnLink/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SCA-OAU/LearnLink" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 
 ## 📧 联系方式 (Contact)
 
