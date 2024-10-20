@@ -62,4 +62,9 @@ Don't forget to star ⭐ this repo if you find this helpful
 
 ---
 
+## 📑 License
+This project is licensed under the MIT License - see the [license](./LICENSE.md) file for details.
+
+---
+
 Thank you for visiting and happy learning! 🚀
