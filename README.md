@@ -47,12 +47,18 @@ Access a range of materials for personal growth, including goal setting, product
 
 ---
 
-## 🤝 Contribute
-
+## 🤝 Contributions
 We welcome contributions to make this repository even more valuable! If you have resources to add or improvements to suggest, please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
 
+### Contributors
+<a href="https://github.com/SCA-OAU/LearnLink/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SCA-OAU/LearnLink" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## 📧 Support
-Don't forget to star ⭐ this repo
+Don't forget to star ⭐ this repo if you find this helpful
 
 ---
 
