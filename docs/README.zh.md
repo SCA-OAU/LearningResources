@@ -65,10 +65,13 @@
 
 Made with [contrib.rocks](https://contrib.rocks).
 
+## 📧 支持 Support
+别忘了给这个仓库加星 ⭐，如果你觉得它有帮助的话！
 
-## 📧 联系方式 (Contact)
+---
 
-如有任何问题或建议，欢迎通过 [contact@example.com](mailto:contact@example.com) 联系我们。
+## 📑 证书 License
+该项目采用 MIT 许可证 - 有关详细信息，请参阅[许可证](../LICENSE.md)文件。
 
 ---
 
